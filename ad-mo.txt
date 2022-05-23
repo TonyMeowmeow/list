@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Kzh6CmKYZXkYtsGk4rrZkA
+! Checksum: HVVkieEkGJyQ1uVipJqTqQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202205231049
-! Last Modified: 2022年05月23日 10:49
+! Version: 202205231101
+! Last Modified: 2022年05月23日 11:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -110594,7 +110594,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 !---------- Anti-Adblock ----------
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 ! CJX's Annoyance List
-!#include https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
+!#include https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
 /template/bingfeng/statics/js/pingbi.js
