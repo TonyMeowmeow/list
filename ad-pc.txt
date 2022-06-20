@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Kl/35QAjhYk7OiTPaIOBSg
+! Checksum: ByQG2MoMYmTiLMag+JxcnA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202206201425
-! Last Modified: 2022年06月20日 14:25
+! Version: 202206202029
+! Last Modified: 2022年06月20日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -38205,6 +38205,7 @@ tf2r.com#@#.adverts
 ||euxgfqkgpmyvo.com^
 ||euz.net^
 ||evadav.top^
+||evaluationgnatprotected.com^
 ||evantative.top^
 ||evasiondemandedlearning.com^
 ||evbsa.xyz^
@@ -44706,6 +44707,7 @@ tf2r.com#@#.adverts
 ||prepayproceedingsground.com^
 ||prepenseprepensecubicoperating.com^
 ||prepenseprepensedefiance.com^
+||preposterousdecidedfollowing.com^
 ||preposterousgoody.com^
 ||preqoaojsdgmmc.xyz^
 ||presentationsportsman.com^
@@ -47471,6 +47473,7 @@ tf2r.com#@#.adverts
 ||taroads.com^
 ||tarrilyathenee.com^
 ||tarsuscaul.com^
+||tartator.com^
 ||tartoals.net^
 ||tarvemowhay.com^
 ||tastesmodifycount.com^
@@ -57781,8 +57784,6 @@ eteknix.com###wrapper > header
 cranestodaymagazine.com,hoistmagazine.com,ttjonline.com,tunnelsonline.info###wrapper_banners
 blasternation.com###xobda
 yardbarker.com###yb_recirc
-sevenforums.com,tenforums.com###yui-gen0
-sevenforums.com,tenforums.com###yui-gen1
 ecoustics.com###zox-lead-bot
 talkingpointsmemo.com##.--span\:12.AdSlot
 androidauthority.com##.-Ci
@@ -63962,6 +63963,7 @@ ubmcmm.baidustatic.com
 !2308
 ||jrhbhz.com^
 !2306
+||dierguanggao.xyz^
 ##a[href*="/682kg.com"]
 ||306842.com^
 ||9191919199.com^
@@ -63974,6 +63976,7 @@ ubmcmm.baidustatic.com
 ||tangkai.ltd^
 ||tklm77.top^
 !2305
+##a[href="https://guapitv.app/"]
 ||diyiguanggao.xyz^
 ##a[href*=".xxgxqscl.com/"]
 ||app0003.xyz^
@@ -71705,6 +71708,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||xonlines.com/upload/gg/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 tmioe.com##a[target="_blank"] > img[src*=".sinaimg.cn"]
@@ -79596,6 +79600,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
 !2306
+||mtsry.top^
 ||slifindy.top^
 ||dj57.club^
 ||ukan.online^
@@ -79605,6 +79610,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||shaonlt.love^
 ||dengzhou.us^
 ||slibindy.top^
+||yundingez.top^
 ||luotuoma.cool^
 ||randolph.love^
 ||hggtt.top^
@@ -79757,6 +79763,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !2206
 !2403
 ||readysugerfree.top^
+!2402
+##a[href*=".eampakt.com/"]
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
