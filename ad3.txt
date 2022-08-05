@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wt7IWe0l5eVDNjlhSfJXLg
+! Checksum: v/qkpK6uDYtxVxBdAPt2xA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208050937
-! Last Modified: 2022年08月05日 09:37
+! Version: 202208051419
+! Last Modified: 2022年08月05日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2743,6 +2743,11 @@ ubmcmm.baidustatic.com
 ||gsxbxvd.cn^
 ||zengbalg.fun^
 ||collegepre.net^
+||xcwzq.xyz^
+||umkezbh.cn^
+||aqnpbpa.cn^
+||sdljvrf.cn^
+||venator.link^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14271,6 +14276,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ypojie.com#?#.excerpt:-abp-has(>.focus[href^="http"]:not([href*="ypojie"]))
 baidu.com,bdimg.com#?#.j_thread_list:-abp-has(>.fengchao-wrap-feed)
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -25432,6 +25438,7 @@ m.babytree.com##script + a[class]
 /analytics-plugin/*
 /analytics-post-
 /analytics-pusher/*
+/analytics-reporter/*
 /analytics-savebt?
 /analytics-scripts.
 /analytics-sdk.
@@ -28385,6 +28392,7 @@ m.babytree.com##script + a[class]
 /processUserCookie?
 /prod-analytics.
 /prod-client-js-logger/*
+/prod-dataroid.
 /prod/log_preprocess
 /prod/ping?
 /prodtracker?
@@ -30031,6 +30039,7 @@ m.babytree.com##script + a[class]
 /webtrekk_mediaTracking.
 /webtrekk_teaserTracking.
 /webtrends.min.
+/webtrends/webtrends.
 /WebTrendsAnalytics/*
 /wego.farmer.
 /weizenbock/dist/*
@@ -31560,6 +31569,7 @@ _mongo_stats/
 ||datamilk.app^$third-party
 ||datamind.ru^$third-party
 ||dataperforma.com^$third-party
+||dataroid.com^$third-party
 ||datasteam.io^$third-party
 ||dataunlocker.com^$third-party
 ||dataxpand.com^$third-party
@@ -32160,6 +32170,7 @@ _mongo_stats/
 ||jirafe.com^$third-party
 ||jixie.io^$third-party
 ||journity.com^$third-party
+||js-delivr.com^$third-party
 ||jsonip.com^$third-party
 ||jstracker.com^$third-party
 ||jump-time.net^$third-party
@@ -40256,6 +40267,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plausible.mangadex.org^
 ||plausible.omgapi.org^
 ||player-telemetry.vimeo.com^
+||pm.dailykos.com^
 ||pocket-lint.com/media/pf304.js
 ||poki.com/observer/
 ||politico.com/resource/assets/js.min/video-tracking.
