@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mvdXGhWpC98htHoI91sSUg
+! Checksum: iP9Pcf8b24P1Hu3HQw0mOw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208092034
-! Last Modified: 2022年08月09日 20:34
+! Version: 202208100218
+! Last Modified: 2022年08月10日 02:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -34748,6 +34748,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plotrabbit.com^
 ||pluckypocket.com^
 ||pluckytaste.com^
+||pocketfaucet.com^
 ||pocketsonic.com^
 ||podiumpresto.com^
 ||pointlesspocket.com^
