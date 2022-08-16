@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sZT+c7SHDv89ONp5bGbP+w
+! Checksum: pQJ6PXwroZsT2jZpX6PzJg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202208160944
-! Last Modified: 2022年08月16日 09:44
+! Version: 202208161419
+! Last Modified: 2022年08月16日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -594,7 +594,6 @@ quandangdang.net
 /jdzjgg/*
 /jfjs/ad.js
 /jianshen8/images/plan_banner_
-/jquery.24_ef3e.
 /js/aa.htm$script
 /js/aahome.htm
 /js/AD_tv.js
@@ -2970,6 +2969,12 @@ ubmcmm.baidustatic.com
 ||ehprnuo.cn^
 ||qorlsbls.cyou^
 ||yd1s.top^
+||tanyp.xyz^
+||21fsdf.com^
+||tierzf.xyz^
+||vivachina.co^
+||sxbexrv.cn^
+||zzyl.mobi^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -20943,7 +20948,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ||17ce.com^*_$image
 !#18comic.org
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-##.col-lg-3 > .well[data-height="250"][data-width="300"]
+##.col-lg-3 > .well[data-group][style]
+##div[style="display: flex;justify-content: center;"] > .well[data-group][style]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
