@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: T4zKMZd61ts/ZDX6WC/OMg
+! Checksum: 6aDfnlfKUeKHMxM11Ggehg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208250945
-! Last Modified: 2022年08月25日 09:45
+! Version: 202208251431
+! Last Modified: 2022年08月25日 14:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3133,6 +3133,8 @@ ubmcmm.baidustatic.com
 ||t4sb9dq7.site^
 ||ig1a.top^
 ||666774.xyz^
+||tixnd.xyz^
+||fdveqpc.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14652,6 +14654,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+hcbbs.com###framePd6Nsv img[src^="http"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -21110,6 +21113,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
+||18comic.*/static/resources/images/*.gif
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
@@ -27638,6 +27642,7 @@ m.babytree.com##script + a[class]
 /imp?imp_key=
 /imp?reqid=
 /imp?sid=
+/imp_-_pixel.
 /imp_check.php
 /imp_cnt.gif?
 /imp_img.php?
@@ -27858,8 +27863,8 @@ m.babytree.com##script + a[class]
 /kiwip.js
 /klaviyo_analytics.
 /KochavaAnalytics.
-/koko-analytics/*/script.js
 /koko-analytics-
+/koko-analytics/*/script.js
 /kontera.js
 /konterayahoooo.
 /kooomo.tracker.
@@ -30522,6 +30527,7 @@ m.babytree.com##script + a[class]
 /yad_sortab_cetlog.js
 /yandex-metrica-watch/*
 /yandex-metrika.js
+/YandexMetric.
 /yastat.js
 /ybn_pixel/*
 /yell-analytics-
