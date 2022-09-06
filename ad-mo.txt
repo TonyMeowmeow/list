@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3sp+ZHSrdTt6CbJUUm1hTA
+! Checksum: oj0a7A/Fy3PFjutJ1m8hPg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209060955
-! Last Modified: 2022年09月06日 09:55
+! Version: 202209061457
+! Last Modified: 2022年09月06日 14:57
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -3124,7 +3124,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /controller.ad.
 /controller/ad-
 /controllerimg/adv/*
-/core-ads-
 /core-ads.
 /corner-ad.
 /corner_ads/*
@@ -6603,6 +6602,7 @@ _800x80_
 ###IC1-ad
 ###IC2-ad
 ###IC3-ad
+###IC4-ad
 ###IFrameAd
 ###IFrameAd1
 ###IK-ad-area
@@ -8397,6 +8397,7 @@ _800x80_
 ###adsense-post-300x250
 ###adsense-right
 ###adsense-sidebar
+###adsense-slot-1
 ###adsense-tag
 ###adsense-text
 ###adsense-top
@@ -21627,6 +21628,7 @@ _800x80_
 ##.hn-ads
 ##.holder-ad
 ##.holder-ads
+##.home-2020-ad-text
 ##.home-2020-ad-wide
 ##.home-ad
 ##.home-ad--promo
@@ -26554,6 +26556,7 @@ _800x80_
 ##app-advertisement
 ##app-large-ad
 ##ark-top-ad
+##article.ad
 ##aside[id^="adrotate_widgets-"]
 ##aside[id^="advads_ad_widget-"]
 ##aside[id^="tn_ads_widget-"]
@@ -53876,7 +53879,7 @@ drivespark.com##.cmscontent-left-article
 careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
 thisismoney.co.uk##.cnr5
-180gadgets.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,thecinemaholic.com,twistedvoxel.com##.code-block
+180gadgets.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,thecinemaholic.com,twistedvoxel.com,zerohanger.com##.code-block
 conservativebrief.com##.code-block > span
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
 trendingpolitics.com##.code-block-12
@@ -61240,6 +61243,10 @@ ubmcmm.baidustatic.com
 ||rm4b.top^
 ||dewapa.top^
 ||showcoorcb.xyz^
+||naptgcg.cn^
+||tiaotiao.store^
+||nhlnfiq.cn^
+||uxlidt.ink^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
