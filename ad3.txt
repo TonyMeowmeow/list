@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oS7VEqvmz+Xiz+Z03yaYuQ
+! Checksum: E3+kfVa64HDgoHqiaoh7UQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209080220
-! Last Modified: 2022年09月08日 02:20
+! Version: 202209080948
+! Last Modified: 2022年09月08日 09:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3391,6 +3391,13 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||mwogldx.top^
+||kvrtuse.cn^
+||katlacw.cn^
+||nehagex.cn^
+||jq6b.top^
+||taozen.cn^
+||ahp8.site^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -31216,7 +31223,9 @@ _mongo_stats/
 ||1cros.net^
 ||2022welcome.com^
 ||2l6ddsmnm.de^
+||2smt6mfgo.de^
 ||31daa5lnq.de^
+||3gl.net^
 ||520886.xyz^
 ||8672.site^
 ||a1webstrategy.com^
@@ -31248,6 +31257,7 @@ _mongo_stats/
 ||briskeagle.io^
 ||briskpelican.io^
 ||brontops.com^
+||brsrvr.com^
 ||bydst.com^
 ||cadsuta.net^
 ||captcha-display.com^
@@ -31282,12 +31292,14 @@ _mongo_stats/
 ||experianmatch.info^
 ||ezodn.com^
 ||ezstat.ru^
+||f27tltnd.de^
 ||fairdatacenter.de^
 ||fastemu.co^
 ||faster-trk.com^
 ||fastfinch.co^
 ||fastgull.io^
 ||fasttiger.io^
+||fixel.ai^
 ||fleraprt.com^
 ||fn-pz.com^
 ||fpapi.io^
@@ -31314,6 +31326,7 @@ _mongo_stats/
 ||g8715710740.co^
 ||g8913795075.co^
 ||g9111879410.co^
+||g9706132415.co^
 ||g990421675.co^
 ||g990421676.co^
 ||gbqofs.com^
@@ -31475,14 +31488,12 @@ _mongo_stats/
 ||24log.com^$third-party
 ||2cnt.net^$third-party
 ||2o7.net^$third-party
-||2smt6mfgo.de^$third-party
 ||360i.com^$third-party
 ||360tag.com^$third-party
 ||360tag.net^$third-party
 ||3dlivestats.com^$third-party
 ||3dstats.com^$third-party
 ||3enm.com^$third-party
-||3gl.net^$third-party
 ||40nuggets.com^$third-party
 ||4oney.com^$third-party
 ||55labs.com^$third-party
@@ -31836,7 +31847,6 @@ _mongo_stats/
 ||bronto.com^$third-party
 ||browser-statistik.de^$third-party
 ||browser-update.org^$third-party
-||brsrvr.com^$third-party
 ||bstn-14-ma.com^$third-party
 ||btbuckets.com^$third-party
 ||btloader.com^$third-party
@@ -32305,7 +32315,6 @@ _mongo_stats/
 ||firstpromoter.com^$third-party
 ||fishhoo.com^$third-party
 ||fitanalytics.com^$third-party
-||fixel.ai^$third-party
 ||flagcounter.com^$third-party
 ||flaghit.com^$third-party
 ||flash-counter.com^$third-party
