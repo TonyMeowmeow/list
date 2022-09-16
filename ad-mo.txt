@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ctart+ZYtcwYDvlqJTte1w
+! Checksum: KRYCWeTLh7qNQlQ0tCMOIQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209160221
-! Last Modified: 2022年09月16日 02:21
+! Version: 202209160958
+! Last Modified: 2022年09月16日 09:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -9618,7 +9618,6 @@ _800x80_
 ###head-ad-timer
 ###head-ads
 ###head-advertisement
-###head-banner468
 ###head1ad
 ###headAd
 ###headAds
@@ -10094,7 +10093,6 @@ _800x80_
 ###leaderboard_bottom_ad
 ###leaderboard_top_ad
 ###leaderboardad
-###leaderboardadtagwidget-2
 ###leatherboardad
 ###left-ad
 ###left-ad-1
@@ -12119,7 +12117,6 @@ _800x80_
 ##.ADVParallax
 ##.ADV_Mobile
 ##.AD_2
-##.AD_300x250
 ##.AD_336_280
 ##.AD_Leaderboard
 ##.AD_area
@@ -12300,7 +12297,6 @@ _800x80_
 ##.ArticleAdWrapper
 ##.ArticleInlineAd
 ##.ArticleInnerAD
-##.ArticleLayout-nativeAdLabel
 ##.ArticleLeaderboard_ad
 ##.ArticlePage-ad
 ##.Article__Ad
@@ -12308,10 +12304,6 @@ _800x80_
 ##.BOX_LeadAd
 ##.Banner300x250
 ##.Banner468X60
-##.BannerAD728
-##.Banner_Group
-##.Banner_Group_Ad_Label
-##.BaroqueAdContainer
 ##.BigBoxAd
 ##.BigBoxAdLabel
 ##.Billboard-ad-holder
@@ -12324,11 +12316,9 @@ _800x80_
 ##.BottomAdContainer
 ##.BottomAdsPartial
 ##.BottomAffiliate
-##.BottomGoogleAds
 ##.BoxAd
 ##.BoxAdWrap
 ##.BoxRail-ad
-##.BoxSponsorBottom
 ##.BtmAd
 ##.BtmSponsAd
 ##.ButtonAd
@@ -12343,7 +12333,6 @@ _800x80_
 ##.ContentBottomAd
 ##.ContentTextAd
 ##.ContentTopAd
-##.Content_1-ad-holder
 ##.DFPad
 ##.DartAdvert
 ##.DeptAd
@@ -12351,30 +12340,18 @@ _800x80_
 ##.DetailAds
 ##.DetailAdvertisement
 ##.DisplayAd
-##.DomAdsDiv
-##.FlatAds
-##.FlowersAdContainer
 ##.FooterAd
 ##.FooterAdContainer
 ##.FooterAds
-##.FooterTileAdOuter_Div
 ##.Footer_1-ad-holder
-##.GOOGLE_AD
 ##.GRVAd
-##.G_ads
-##.G_ads_m
 ##.Gallery-Content-BottomAd
-##.GalleryViewerAdSuppress
 ##.GeminiAdItem
 ##.GeminiNativeAd
 ##.GetRightAds
-##.Google-Ad-728x90
 ##.GoogleAd
 ##.GoogleAdInfo
 ##.GoogleAdSencePanel
-##.GoogleAdSenseBottomModule
-##.GoogleAdSenseRightModule
-##.GoogleAdWords_container
 ##.GoogleAdsBox
 ##.GoogleAdsItem
 ##.GoogleAdv
@@ -12387,30 +12364,22 @@ _800x80_
 ##.GoogleDfpAdModule
 ##.GoogleDoubleClick-SponsorText
 ##.GoogleSideAd
-##.Googleads728
-##.GreenHomeAd
-##.GridHouseAdRight
 ##.GroupAdSense
 ##.HeaderAd
 ##.HeaderAds
 ##.HeaderBannerAd
-##.HeaderLeaderAd
 ##.HeadingAdSpace
 ##.Hero-Ad
 ##.HomeAd1Label
 ##.HomeAds
 ##.HomeContentAd
 ##.HomeListBlack__AdBlock
-##.HomePageAD
-##.HomeSidebarAd
-##.HomepageAdsPocket
 ##.IABAdSpace
 ##.IM_ad_unit
 ##.InArticleAd
 ##.IndexRightAd
 ##.InsertedAd
 ##.JobListMidAd
-##.LargeOuterBoxAdsense
 ##.LargeRightAd
 ##.LastAd
 ##.LayoutBottomAds
@@ -12421,7 +12390,6 @@ _800x80_
 ##.LeaderAd
 ##.LeaderAdvertisement
 ##.LeaderBoardAd
-##.LeaderboardAdTagWidget
 ##.LearderAd_Border
 ##.LeftAd
 ##.LeftButtonAdSlot
@@ -12429,18 +12397,7 @@ _800x80_
 ##.LeftWideSkyscraperAdPanel
 ##.Ligatus
 ##.ListicleAdRow
-##.ListingAd-container
-##.Loge_AD
-##.LoungeAdsBottomLinks
-##.M2Advertisement
-##.MBoxAdM
-##.MBoxAdR
-##.MBoxAdRight
-##.MDCadSummary
-##.MD_adZone
-##.MOS-ad-hack
 ##.MPUHolder
-##.MPUTitleWrapperClass
 ##.MPUad
 ##.MREC_ads
 ##.MadClose
@@ -12449,69 +12406,47 @@ _800x80_
 ##.MapLayout_BottomMobiAd
 ##.MarketGid_container
 ##.MbanAd
-##.MedRecAD-border
 ##.MiddleAd
 ##.MiddleAdContainer
 ##.MiddleAdvert
 ##.MiddleRightRadvertisement
-##.MspAd
-##.NAPmarketAdvert
 ##.NA_ad
 ##.NR-Ads
 ##.NavBarAd
-##.NewsAds
 ##.Normal-add
 ##.OAS_wrap
-##.OSOasAdModule
-##.OSProfileAdSenseModule
 ##.OcelotAdModule
 ##.OcelotAdModule-ad
-##.OpaqueAdBanner
-##.OuterAdvertisingContainer
 ##.PPD_ADS_JS
 ##.Page-ad
 ##.PageTopAd
 ##.PcSideBarAd
 ##.PencilAd
-##.Post-All-Advertment
 ##.PostAdvertisementBeforePost
 ##.PostSidebarAd
 ##.Post__ad
-##.PremiumObitAdBar
 ##.PrimisResponsiveStyle
 ##.PrintAd-Slider
 ##.ProductAd
-##.PushDownAdPane
 ##.PushdownAd
-##.RBboxAd
 ##.RC-AD
-##.RGAdBoxMainDiv
 ##.RR_ad
-##.RW_ad300
-##.RealtorAd
 ##.RectangleAd
 ##.Rectangle_1-ad-holder
 ##.Rectangle_2-ad-holder
 ##.Rectangle_3-ad-holder
 ##.RelatedAds
 ##.ResponsiveAd
-##.Right300x250AD
 ##.RightAd
 ##.RightAd1
 ##.RightAd2
-##.RightAdWrapper
-##.RightAdvertiseArea
 ##.RightAdvertisement
 ##.RightBannerAd350x250
-##.RightGoogleAFC
 ##.RightGoogleAd
 ##.RightRailAd
-##.RightRailAdbg
 ##.RightRailAds
-##.RightRailAdtext
 ##.RightTowerAd
 ##.SAAG-promoAdContainer
-##.SHAd2
 ##.SPMADS
 ##.SRPads
 ##.STR_AdBlock
@@ -12519,9 +12454,6 @@ _800x80_
 ##.SecondaryAdLink
 ##.Section-ad
 ##.SectionSponsor
-##.ShootingAd
-##.ShootingAdLeft
-##.ShowAdDisplay
 ##.SideAd
 ##.SideAdCol
 ##.SideAds
@@ -12531,17 +12463,10 @@ _800x80_
 ##.SidebarAd
 ##.SidebarAdvert
 ##.SidebarRightAdvertisement
-##.SidekickItem-Ads
-##.SimpleAcceptableTextAds
-##.SimpleAcceptebleTextAds
 ##.SimpleAd
-##.SitesGoogleAdsModule
-##.Sitewide_AdLabel
 ##.SkyAdContainer
 ##.SkyAdContent
 ##.SkyScraperAd
-##.SkyscraperAD-border
-##.SmartAdZoneList
 ##.Sponsor-container
 ##.SponsorHeader
 ##.SponsorIsland
@@ -54784,6 +54709,7 @@ apotelyt.com##aside[id^="hedoApp"]
 apotelyt.com##aside[id^="widoApp"]
 psycom.net##center > .vh-quiz-qborder
 conservativeplaylist.com##center > [href]
+mangas-raw.com##center > div[style]
 builtbybit.com##center[style="margin-top: 20px"]
 osbot.org##custom > a[href]
 readonepiece.com##div > b
@@ -60358,6 +60284,12 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||ndfqoqo.cn^
+||jirvlo.cn^
+||eblnzoq.cn^
+||uq7c.top^
+||kivo.fun^
+||cheon2buy.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -110089,6 +110021,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||adobedtm.com^*/mbox-contents-$script,domain=ceair.com|fcbarcelona.cn
 @@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
+@@||baidu.com/api/bidder/$domain=jump2.bdimg.com
+@@||baidu.com^*/track.gif$image,domain=jump2.bdimg.com
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
@@ -110464,7 +110398,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||eldiario.es/static/BBTCore/images/pixel.gif?hash=$image,domain=eldiario.es
 @@||estafeta.com/shared/js/tracking.js
 @@||googleoptimize.com/optimize.js$domain=lacomer.com.mx
-@@||googletagmanager.com/gtm.js$script,domain=tn.com.ar
+@@||googletagmanager.com/gtm.js$script,domain=pccomponentes.com|tn.com.ar
 @@||groupbycloud.com/gb-tracker-client-4.min.js$domain=lacomer.com.mx
 @@||gruposantander.es^*/scripts/log.js
 @@||imprentaonline.net^*/js/gtm.min.js$~third-party
