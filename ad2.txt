@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qzFtqZodNylwUgkXo907hA
+! Checksum: Z7J29zRJnmPfblR3eeedKQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202209181422
-! Last Modified: 2022年09月18日 14:22
+! Version: 202209182031
+! Last Modified: 2022年09月18日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -20655,6 +20655,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||apkpure.com^$generichide
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
