@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cHWDmVzLWZprDW/XsieASw
+! Checksum: i/+o7a+3mx4UQEU274OnTQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209220223
-! Last Modified: 2022年09月22日 02:23
+! Version: 202209220949
+! Last Modified: 2022年09月22日 09:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -14050,7 +14050,6 @@ _800x80_
 ##.ad_160_600
 ##.ad_160x600
 ##.ad_16m7rle
-##.ad_176_inner
 ##.ad_180x150
 ##.ad_188_inner
 ##.ad_1day9
@@ -14059,14 +14058,11 @@ _800x80_
 ##.ad_200x200
 ##.ad_234x60
 ##.ad_240
-##.ad_240x400
-##.ad_242_90_top
 ##.ad_250
 ##.ad_250250
 ##.ad_250x200
 ##.ad_250x250
 ##.ad_250x250_w
-##.ad_260_210
 ##.ad_3
 ##.ad_300
 ##.ad_300250
@@ -14076,7 +14072,6 @@ _800x80_
 ##.ad_300_250
 ##.ad_300_250_1
 ##.ad_300_250_2
-##.ad_300_250_cpv
 ##.ad_300_250_wrapper
 ##.ad_300_600
 ##.ad_300by250
@@ -14093,7 +14088,6 @@ _800x80_
 ##.ad_320x250_async
 ##.ad_320x360
 ##.ad_320x50
-##.ad_326x260
 ##.ad_330x110
 ##.ad_336
 ##.ad_336_gr_white
@@ -14141,7 +14135,6 @@ _800x80_
 ##.ad_970x250_300x250
 ##.ad_970x250_container
 ##.ad_970x90_prog
-##.ad_980x260
 ##.ad_CustomAd
 ##.ad_Flex
 ##.ad_Flexi_LowerRight
@@ -55829,7 +55822,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.microsoft.com^$generichide
 @@||apple.com^$generichide
 @@||bitbucket.org^$generichide
-@@||browserbench.org^$generichide
 @@||calendar.google.com^$generichide
 @@||cbs.com^$generichide
 @@||cloud.google.com^$generichide
@@ -55871,7 +55863,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||tidal.com^$generichide
 @@||tv.youtube.com^$generichide
 @@||web.archive.org^$generichide
-@@||web.basemark.com^$generichide
 @@||web.telegram.org^$generichide
 @@||whatsapp.com^$generichide
 @@||wikibooks.org^$generichide
@@ -59678,6 +59669,15 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||dqhxczj.cn^
+||rwadakesz.cyou^
+||dq3e.top^
+||knmnamr.cn^
+||yiop2bace.icu^
+||yeip5aehi.icu^
+||bb-bbjsyuming.cc^
+||lgh2.fun^
+##a[href*="/7900y.com?"]
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -111545,7 +111545,7 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 ||ssports.iqiyi.com/app/$media,object-subrequest
 show.ssports.com
-qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
 qq.com#@#+js(nowebrtc)
 qq.com##+js(json-prune,adList.item)
 !qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
