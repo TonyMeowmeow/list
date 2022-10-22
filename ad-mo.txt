@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ENBX9LyLW0+PaDtdtRgkUA
+! Checksum: bf0fX+qwejQDPIT1+aj2Uw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210220944
-! Last Modified: 2022年10月22日 09:44
+! Version: 202210221427
+! Last Modified: 2022年10月22日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -22807,6 +22807,7 @@ tf2r.com#@#.adverts
 ||42d61f012e27b36d53.com^
 ||42fd278b95.com^
 ||43137c93a82b0e81da.com^
+||441a8a5527.com^
 ||4484986022.com^
 ||452tapgn.de^
 ||45d2bbfb2a.com^
@@ -24873,6 +24874,7 @@ tf2r.com#@#.adverts
 ||aviewrodlet.com^
 ||aviole.com^
 ||avkyu1tesnwy.com^
+||avppuqrudc.com^
 ||avtkfjodkgkiqhr.com^
 ||avulsedcherty.com^
 ||avwincall.info^
@@ -27281,6 +27283,7 @@ tf2r.com#@#.adverts
 ||cupmidnithe.com^
 ||cupoabie.net^
 ||cuppinaruke.com^
+||cupseshupse.com^
 ||curacaohaloing.website^
 ||curatcullion.com^
 ||curategeis.xyz^
@@ -28460,6 +28463,7 @@ tf2r.com#@#.adverts
 ||edoqvecgbvn.xyz^
 ||edoumeph.com^
 ||edownloadfile.me^
+||edshook.xyz^
 ||edstever.com^
 ||edstrastco.com^
 ||edstylistepro.xyz^
@@ -30196,6 +30200,7 @@ tf2r.com#@#.adverts
 ||goingtocontent.com^
 ||goingtoothachemagician.com^
 ||gold2762.com^
+||goldalternateattributed.com^
 ||goldclick.xyz^
 ||golden-gateway.com^
 ||goldenbettingefforlessefforless.com^
@@ -30404,6 +30409,7 @@ tf2r.com#@#.adverts
 ||grygrothapi.pro^
 ||gscontxt.net^
 ||gsinspiring.xyz^
+||gsrdsvdxrcud.top^
 ||gsvyjunccsw.com^
 ||gtbdhr.com^
 ||gtrd.xyz^
@@ -30440,6 +30446,7 @@ tf2r.com#@#.adverts
 ||gurimix.com^
 ||guro2.com^
 ||gurswdsyuah.xyz^
+||gurynyce.com^
 ||gussame.com^
 ||gussbkpr.website^
 ||gustdeficitwry.com^
@@ -31042,6 +31049,7 @@ tf2r.com#@#.adverts
 ||hwqfdydekapllb.com^
 ||hwsokkar.com^
 ||hwuwoxtnb.com^
+||hxgpxocxr.top^
 ||hxnfgzotzkhbpw.com^
 ||hxtiiuvfptsnppn.com^
 ||hybgrhjuk.xyz^
@@ -31330,6 +31338,7 @@ tf2r.com#@#.adverts
 ||inestimabletrifling.com^
 ||inexhaustiblepatient.com^
 ||inexorabledemocracycurly.com^
+||inexperiencedfuture.pro^
 ||inextricableaugmentcompelling.com^
 ||infectedably.com^
 ||infectedobnoxiousfavorite.com^
@@ -32165,6 +32174,7 @@ tf2r.com#@#.adverts
 ||kidnappingendless.com^
 ||kidskinnucleus.com^
 ||kihoadoa.com^
+||kikabothi.com^
 ||kikibobo.top^
 ||kikoosso.net^
 ||kikoucuy.net^
@@ -32352,6 +32362,7 @@ tf2r.com#@#.adverts
 ||kumpulblogger.com^
 ||kumteerg.com^
 ||kuntic.com^
+||kuntlgsdinwp.com^
 ||kuptabachy.com^
 ||kurlipush.com^
 ||kuroid.com^
@@ -32647,6 +32658,7 @@ tf2r.com#@#.adverts
 ||lgkwytmgkcwgsa.com^
 ||lgpihaml.com^
 ||lgpumcja.com^
+||lgqxbjnhwru.top^
 ||lgse.com^
 ||lgtdkpfnor.com^
 ||lhacgsdvkrm.com^
@@ -34252,6 +34264,7 @@ tf2r.com#@#.adverts
 ||nkyouvery.fun^
 ||nlbtrwhykjtc.com^
 ||nld0jsg9s9p8.com^
+||nlhmeeybhxohqfh.com^
 ||nlntrk.com^
 ||nlop.xyz^
 ||nlqqrsgr.com^
@@ -34431,6 +34444,7 @@ tf2r.com#@#.adverts
 ||ntlysearchin.com^
 ||ntpoliticismsc.xyz^
 ||ntsmbuuggswusw.com^
+||nttogetherefwukou.xyz^
 ||ntucotbh.com^
 ||ntv.io^
 ||ntvk1.ru^
@@ -35109,6 +35123,7 @@ tf2r.com#@#.adverts
 ||overzoruaon.com^
 ||overzubatan.com^
 ||oveukrnmen.com^
+||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
 ||ovoute.com^
 ||ovqcmbbxppqquc.com^
@@ -35859,6 +35874,7 @@ tf2r.com#@#.adverts
 ||popunders.bid^
 ||popunderz.com^
 ||popuptraffic.com^
+||popuzothe.com^
 ||popwad.xyz^
 ||popwin.net^
 ||popwow.xyz^
@@ -36696,6 +36712,7 @@ tf2r.com#@#.adverts
 ||ragapa.com^
 ||rageagainstthesoap.com^
 ||raggedselsyn.com^
+||raglogripsa.com^
 ||raicabuy.net^
 ||railcowboy.com^
 ||railroadtomato.com^
@@ -38691,6 +38708,7 @@ tf2r.com#@#.adverts
 ||stealthlockers.com^
 ||steamlargelyjustified.com^
 ||steamlightslaxative.com^
+||steep-opening.com^
 ||steepedgoofed.com^
 ||steepto.com^
 ||steghsolio.com^
@@ -38911,6 +38929,7 @@ tf2r.com#@#.adverts
 ||supperopeningturnstile.com^
 ||supplerneedled.com^
 ||supplysuede.com^
+||suppoc.com^
 ||supportivedistrustuldistrustulmaturity.com^
 ||supportstew.com^
 ||supposefright.com^
@@ -38969,6 +38988,7 @@ tf2r.com#@#.adverts
 ||swaylieutenant.com^
 ||swdlxrsm.com^
 ||sweaterwarmly.com^
+||swedecornysupper.com^
 ||sweepawejasper.com^
 ||sweepia.com^
 ||sweepprolong.com^
@@ -39019,6 +39039,7 @@ tf2r.com#@#.adverts
 ||systil.com^
 ||sysxezolnaxavw.com^
 ||syxcwxur.com^
+||syynstsrb.com^
 ||syyycc.com^
 ||szxjygbabily.com^
 ||t.uc.cn^
@@ -39050,6 +39071,7 @@ tf2r.com#@#.adverts
 ||tagoutlookignoring.com^
 ||tagstorkglory.com^
 ||tahodebe.xyz^
+||tahoshehu.com^
 ||taigasquarl.com^
 ||taigrooh.net^
 ||tailapsi.com^
@@ -39514,6 +39536,7 @@ tf2r.com#@#.adverts
 ||toaprefool.com^
 ||toateeli.net^
 ||tobaltoyon.com^
+||tobestaly.com^
 ||tobleronchiko.com^
 ||toboads.com^
 ||tobymenviolins.casa^
@@ -40283,6 +40306,7 @@ tf2r.com#@#.adverts
 ||uptorncouldn.website^
 ||uptownrecycle.com^
 ||upush.co^
+||upwelf.com^
 ||uqbeohoajdqvcfe.xyz^
 ||uqimgeulpygyo.com^
 ||uqsgsfhd.com^
@@ -40619,6 +40643,7 @@ tf2r.com#@#.adverts
 ||vilith.com^
 ||villageeatable.com^
 ||vimmenced.club^
+||vimohustu.com^
 ||vinalsmuffish.com^
 ||vindexcravat.com^
 ||vindicosuite.com^
@@ -41160,6 +41185,7 @@ tf2r.com#@#.adverts
 ||wickoolt.com^
 ||widaimty.com^
 ||widdiesbrawns.com^
+||wideeyedlady.pro^
 ||wideorganiz.xyz^
 ||widespreadgabblewear.com^
 ||widespreadglamour.com^
@@ -41476,6 +41502,8 @@ tf2r.com#@#.adverts
 ||xdjibegutki.com^
 ||xdvsijtlhr.com^
 ||xebadu.com^
+||xeekymvkxov.com^
+||xegluwate.com^
 ||xegroxenu.com^
 ||xekychacu.com^
 ||xel-xel-fie.com^
@@ -41487,6 +41515,7 @@ tf2r.com#@#.adverts
 ||xfffx.xyz^
 ||xfileload.com^
 ||xfrena.com^
+||xfvgkboh.com^
 ||xgalaxi.online^
 ||xgdhxgznp.com^
 ||xgraph.net^
@@ -42045,6 +42074,7 @@ tf2r.com#@#.adverts
 ||zidedge.com^
 ||zidoudsa.net^
 ||zifujwgejz.com^
+||zigachogra.com^
 ||zigansherpa.com^
 ||zigzaggodmotheragain.com^
 ||zijaipse.com^
@@ -45179,6 +45209,7 @@ tf2r.com#@#.adverts
 ||padsdel.com^$popup
 ||padssup.com^$popup
 ||pagne4cham4hrobl.com^$popup
+||palama2.co^$popup
 ||palundrus.com^$popup
 ||pamper.buzz^$popup
 ||pancreasoblivion.com^$popup
@@ -45779,6 +45810,7 @@ tf2r.com#@#.adverts
 ||ultimate-captcha.com^$popup
 ||ultralove.net^$popup
 ||ultrlove.com^$popup
+||ulukdliketobeparto.xyz^$popup
 ||unbeedrillom.com^$popup
 ||unblockedapi.com^$popup
 ||understoodreceivermisunderstand.com^$popup
@@ -59011,6 +59043,9 @@ ubmcmm.baidustatic.com
 ||twrkcbs.cn^
 ||tsiyun.cn^
 ||kzett.com^
+||lo9b.top^
+||cxbge.xyz^
+||mcxsw.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -92921,6 +92956,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.xhamster2.com^
 ||colvk.viki.io^
 ||confiant.msn.com^
+||connecteam.com/bi/api/ReportHit/
 ||consent.ghostery.com/v1.js
 ||console-telemetry.oci.oraclecloud.com^
 ||consumer.org.nz/session/ping/
