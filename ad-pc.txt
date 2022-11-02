@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Pnmmaa2fZx9/SE8Ne+xUUg
+! Checksum: iB8YxlFL/2wxt6CWNsK83A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211020946
-! Last Modified: 2022年11月02日 09:46
+! Version: 202211021425
+! Last Modified: 2022年11月02日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -13109,6 +13109,7 @@ _800x80_
 ##.ad_pause
 ##.ad_perma-panorama
 ##.ad_pic
+##.ad_place
 ##.ad_placeholder
 ##.ad_placeholder_d_b
 ##.ad_placeholder_d_s
@@ -70537,6 +70538,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+mydrivers.com##a[href*="/huodong.ashx"]
 jinbaodm.com##ul[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -92568,6 +92570,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beyondsecurity.com^$third-party
 ||cyveillance.com^$third-party
 ||geotrust.com^$third-party
+||guarantee-cdn.com^$third-party
 ||howsmyssl.com^$third-party
 ||js.trendmd.com^$script,subdocument,third-party
 ||legitscript.com/seals/
