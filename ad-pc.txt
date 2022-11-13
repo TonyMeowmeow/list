@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e7zdSmWglq5s5o0SIHnRGQ
+! Checksum: ijK+ztXAGBdLs1eqCu811g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211130218
-! Last Modified: 2022年11月13日 02:18
+! Version: 202211130923
+! Last Modified: 2022年11月13日 09:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -57331,6 +57331,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
 -90mh-gg.
+/static/js/a22082021.
 .bid/ads/
 .blog/ads/
 .cam/ads/
@@ -58816,6 +58817,15 @@ ubmcmm.baidustatic.com
 ||xwdsp.com^
 ||ygcn.ltd^
 ||z66ggsh.top^
+||qqnggnsy.fun^
+||fiwyjar.cn^
+||zw2b9.cn^
+||ljlg.xyz^
+||epmf4.cn^
+||pyyhkn.com^
+||zdy1.xyz^
+||fvtrx.cyou^
+||venulaevavs.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -71498,6 +71508,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||novipnoad.com/theme/js/helper.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
