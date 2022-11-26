@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FtLXd/REDShqsRIJdV9dBg
+! Checksum: lJFLINqBynXNURFyTPW1iA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211260909
-! Last Modified: 2022年11月26日 09:09
+! Version: 202211261417
+! Last Modified: 2022年11月26日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -3805,7 +3805,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /script/wait.php?*=$xmlhttprequest
 /scripts/ad/*
 /scripts/ad_
-/scripts/ads/*
 /scripts/afc/*
 /scripts/chatur.js
 /scripts/zanox-
@@ -59639,6 +59638,8 @@ ubmcmm.baidustatic.com
 ||pmcppla.cn^
 ||simi1234.com^
 ||lxrhw.xyz^
+||qganilgly.cyou^
+||hqqpw.mobi^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
