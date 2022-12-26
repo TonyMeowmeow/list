@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wA4ozOrKHNIAnqNZolC02A
+! Checksum: WXu4Hf7cZOQQ3NxdMyy+rA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212260214
-! Last Modified: 2022年12月26日 02:14
+! Version: 202212260906
+! Last Modified: 2022年12月26日 09:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -50740,6 +50740,7 @@ geoguessr.com##.game-layout__in-game-ad
 amoyshare.com##.game-poster
 pokernews.com##.gameCards
 monstertruckgames.org##.gamecatbox
+graviti.com##.gas-cookie-bar
 home-assistant-guide.com##.gb-container-429fcb03
 home-assistant-guide.com##.gb-container-5698cb9d
 home-assistant-guide.com##.gb-container-bbc771af
@@ -56999,6 +57000,9 @@ ubmcmm.baidustatic.com
 ||bnsdk.top^
 ||8499683.com^
 ||vouninked.com^
+||njxjrar.cn^
+||klgzjaw.cn^
+||hqoqbs.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -107173,7 +107177,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
 @@||ssl.gstatic.com/analytics/$script,domain=analytics.google.com
-@@||sst.soranews24.com/gtm.js$script,~third-party
 @@||starbucks.ca^*/optimizely.$script,~third-party
 @@||starbucks.com^*/optimizely.$script,~third-party
 @@||starbucksassets.com/weblx/static/optimizely.$script,domain=starbucks.ca|starbucks.com
