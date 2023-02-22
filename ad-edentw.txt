@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2tz3A9W1ma4zsTLiWFcgzw
+! Checksum: rTrsGsJdbNAv/q1KkYgekA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202302220217
-! Last Modified: 2023年02月22日 02:17
+! Version: 202302221418
+! Last Modified: 2023年02月22日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -198,6 +198,7 @@ redtube.com##.qb
 shadbase.com##img[alt="adblock"]
 ! Generichide
 @@||docs.w3cub.com^$generichide
+@@||www.ifon.ca^$generichide
 ! *** antiadblockfilters:antiadblockfilters/antiadblock_finnish.txt ***
 ! *** antiadblockfilters:antiadblockfilters/antiadblock_french.txt ***
 -adblock-notice-
