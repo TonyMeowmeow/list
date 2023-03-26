@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NBI3I8ElRCotwe8TwTsRBw
+! Checksum: l+QT7/RVQaQLbVTTfp2dzg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202303261415
-! Last Modified: 2023年03月26日 14:15
+! Version: 202303262022
+! Last Modified: 2023年03月26日 20:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -22398,7 +22398,7 @@ out.com#@#div[id^="dfp-ad-"]
 cancam.jp,saitama-np.co.jp#@#div[id^="div-gpt-"]
 xdpedia.com#@#div[id^="ezoic-pub-ad-"]
 forums.overclockers.ru#@#div[id^="yandex_ad"]
-advancedrenamer.com,cdromance.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,teemo.gg,willyoupressthebutton.com#@#ins.adsbygoogle
+advancedrenamer.com,cdromance.com,epicbundle.com,hs-exp.jp,korail.pe.kr,nextbigtrade.com,phcorner.net,teemo.gg,willyoupressthebutton.com#@#ins.adsbygoogle
 japan-webike.be,japan-webike.ca,japan-webike.ch,japan-webike.dk,japan-webike.ie,japan-webike.it,japan-webike.kr,japan-webike.nl,japan-webike.se,webike-china.cn,webike.ae,webike.co.at,webike.co.hu,webike.co.il,webike.co.uk,webike.com.ar,webike.com.bd,webike.com.gr,webike.com.kh,webike.com.mm,webike.com.ru,webike.com.tr,webike.com.ua,webike.cz,webike.de,webike.es,webike.fi,webike.fr,webike.hk,webike.id,webike.in,webike.la,webike.mt,webike.mx,webike.my,webike.net,webike.net.br,webike.net.pl,webike.ng,webike.no,webike.nz,webike.ph,webike.pk,webike.pt,webike.sg,webike.tw,webike.vn#@#.ad_box
 japan-webike.be,japan-webike.ca,japan-webike.ch,japan-webike.dk,japan-webike.ie,japan-webike.it,japan-webike.kr,japan-webike.nl,japan-webike.se,webike-china.cn,webike.ae,webike.co.at,webike.co.hu,webike.co.il,webike.co.uk,webike.com.ar,webike.com.bd,webike.com.gr,webike.com.kh,webike.com.mm,webike.com.ru,webike.com.tr,webike.com.ua,webike.cz,webike.de,webike.es,webike.fi,webike.fr,webike.hk,webike.id,webike.in,webike.la,webike.mt,webike.mx,webike.my,webike.net,webike.net.br,webike.net.pl,webike.ng,webike.no,webike.nz,webike.ph,webike.pk,webike.pt,webike.sg,webike.tw,webike.vn#@#.ad_title
 spoilertv.com#@##adsensewide
@@ -60082,6 +60082,7 @@ newduba.cn###jq_youxi
 ||aisnj.cn^
 ||sicongyyds.com^
 ||eopad.cyou^
+||6686bb.app^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
