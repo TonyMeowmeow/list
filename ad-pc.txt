@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ixVCI0SX1ZQbGP59eZBcBA
+! Checksum: QMT+MofCYRQAbY/B2VXnVA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202306250926
-! Last Modified: 2023年06月25日 09:26
+! Version: 202306251417
+! Last Modified: 2023年06月25日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -9821,6 +9821,7 @@ _800x80_
 ###votvAds_inner
 ###vsw-ads
 ###vsw_ad
+###vuukle-quiz-and-ad
 ###vuukle_ads_square2
 ###wTopAd
 ###waldo-sticky-footer-wrapper
@@ -16286,6 +16287,7 @@ _800x80_
 ##.dfpAdspot
 ##.dfpAdvert
 ##.dfp_ATF_wrapper
+##.dfp_ad--outbrain
 ##.dfp_ad_block
 ##.dfp_ad_caption
 ##.dfp_ad_content_bottom
@@ -28776,6 +28778,7 @@ browsershots.org#@#.advert_area
 ||declaredjuvenile.com^
 ||declaredpolitics.com^
 ||declarefollowersuspected.com^
+||declinebladdersbed.com^
 ||declinedmildlyreckon.com^
 ||declinetongarage.com^
 ||declk.com^
@@ -33268,6 +33271,7 @@ browsershots.org#@#.advert_area
 ||igameunion.com^
 ||igaming-warp-service.io^
 ||igarabealing.website^
+||igbiraintsv.com^
 ||iglephoo.xyz^
 ||igloohq.com^
 ||igmcsvrgxpebh.xyz^
@@ -39127,6 +39131,7 @@ browsershots.org#@#.advert_area
 ||poushoza.net^
 ||poutauge.net^
 ||povoarge.com^
+||powdermealfilth.com^
 ||powerad.ai^
 ||poweradblocker.com^
 ||powerain.biz^
@@ -40116,6 +40121,7 @@ browsershots.org#@#.advert_area
 ||raudeecu.com^
 ||raufoomoochi.com^
 ||raujurum.net^
+||raukaury.com^
 ||raunowhy.xyz^
 ||raupsica.net^
 ||raupsoap.com^
@@ -40361,6 +40367,7 @@ browsershots.org#@#.advert_area
 ||regnumyelp.digital^
 ||regott.com^
 ||regretfactor.com^
+||regrettabletoken.com^
 ||regrowsmudless.com^
 ||regrupontihe.com^
 ||reguid.com^
@@ -40663,9 +40670,11 @@ browsershots.org#@#.advert_area
 ||rhiospsea.one^
 ||rhkaljxsxlxn.xyz^
 ||rhkyufodw8ochdr3ogsite.com^
+||rhoecusteased.life^
 ||rhombicsomeday.com^
 ||rhubarbraise.com^
 ||rhudsplm.com^
+||rhungs.com^
 ||rhvdsplm.com^
 ||rhxdsplm.com^
 ||rhythmxchange.com^
@@ -41339,6 +41348,7 @@ browsershots.org#@#.advert_area
 ||scarletcashwi5.com^
 ||scarofnght.com^
 ||scarwan.com^
+||scbvydod.xyz^
 ||scenbe.com^
 ||scenespathreconciliation.com^
 ||schavsorpines.guru^
@@ -44719,6 +44729,7 @@ browsershots.org#@#.advert_area
 ||usnindioxime.website^
 ||usounoul.com^
 ||ussive.com^
+||ussord.com^
 ||ustithoo.net^
 ||ustive.com^
 ||usuade.com^
@@ -45901,6 +45912,7 @@ browsershots.org#@#.advert_area
 ||wnjjhksaue.com^
 ||wnp.com^
 ||wnrrhcyok.xyz^
+||wnutysqavt.com^
 ||wnyuehqewfisvby.com^
 ||woaembayed.uno^
 ||woafoame.net^
@@ -46062,6 +46074,7 @@ browsershots.org#@#.advert_area
 ||wrkl.xyz^
 ||wronal.com^
 ||wronti.com^
+||wrotad.com^
 ||wrotop.com^
 ||wrotov.com^
 ||wrotus.com^
@@ -46142,6 +46155,7 @@ browsershots.org#@#.advert_area
 ||wzdzht7am5.com^
 ||wzk5ndpc3x05.com^
 ||wzlbhfldl.com^
+||wzmidfgwyxfrd.com^
 ||wzogiwfapo.com^
 ||wzxty168.com^
 ||x-adservice.com^
@@ -46209,6 +46223,7 @@ browsershots.org#@#.advert_area
 ||xijojwonz.com^
 ||xilbalar.com^
 ||xilqhukky.com^
+||xilrajmzyvar.com^
 ||xineday.com^
 ||xipaaqgnrehpdns.com^
 ||xiryrnrz.com^
@@ -46451,6 +46466,7 @@ browsershots.org#@#.advert_area
 ||yinthesprin.xyz^
 ||yirtaycyytr.xyz^
 ||yiteattends.tech^
+||yixios.com^
 ||yizawe.xyz^
 ||yjgkcbvmnqnicep.xyz^
 ||ylasthepoityelthenl.xyz^
@@ -56265,7 +56281,7 @@ momjunction.com##.advertinside
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com,zimbabwesituation.com##.advertise
 gpfans.com##.advertise-panel
 cointelegraph.com##.advertise-with-us-link_O9rIX
-aan.com,aarp.org,animax-asia.com,apkforpc.com,audioxpress.com,axn-asia.com,bravotv.com,citiblog.co.uk,cnbctv18.com,cnn59.com,controleng.com,dw.com,dwturkce.com,escapeatx.com,foodsforbetterhealth.com,gemtvasia.com,hcn.org,huffingtonpost.co.uk,inqld.com.au,investmentnews.com,jewishworldreview.com,legion.org,lifezette.com,livestly.com,magtheweekly.com,moneyland.ch,offshore-energy.biz,onetvasia.com,oxygen.com,pch.com,prospectmagazine.co.uk,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,reason.com,redvoicemedia.com,revolver.news,rogerebert.com,smithsonianmag.com,streamingmedia.com,the-scientist.com,thecatholicthing.org,therighthairstyles.com,weatherwatch.co.nz,wheels.ca,woot.com,worldofbitco.in##.advertisement
+aan.com,aarp.org,additudemag.com,animax-asia.com,apkforpc.com,audioxpress.com,axn-asia.com,bravotv.com,citiblog.co.uk,cnbctv18.com,cnn59.com,controleng.com,dw.com,dwturkce.com,escapeatx.com,foodsforbetterhealth.com,gemtvasia.com,hcn.org,huffingtonpost.co.uk,inqld.com.au,investmentnews.com,jewishworldreview.com,legion.org,lifezette.com,livestly.com,magtheweekly.com,moneyland.ch,offshore-energy.biz,onetvasia.com,oxygen.com,pch.com,prospectmagazine.co.uk,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,reason.com,redvoicemedia.com,revolver.news,rogerebert.com,smithsonianmag.com,streamingmedia.com,the-scientist.com,thecatholicthing.org,therighthairstyles.com,weatherwatch.co.nz,wheels.ca,woot.com,worldofbitco.in##.advertisement
 business-standard.com##.advertisement-bg
 atlasobscura.com##.advertisement-disclaimer
 radiocity.in##.advertisement-horizontal-small
@@ -57185,7 +57201,7 @@ biztechmagazine.com##.hdr-btm
 analyticsinsight.net##.head-banner
 plos.org##.head-top
 realmadrid.com##.head_sponsors
-organicfacts.net##.header-ad
+additudemag.com,organicfacts.net##.header-ad
 boldsky.com##.header-ad-block
 scmp.com##.header-ad-slot
 worldpress.org##.header-b
@@ -58941,7 +58957,6 @@ presearch.com##[x-data*="kwrdAdFirst"]
 mobiforge.com##a > img[alt="Ad"]
 eztv.tf,eztv.yt##a > img[alt="Anonymous Download"]
 freshplaza.com##a.banner
-aliexpress.com,aliexpress.us##a.search-card-item[href*="&aem_p4p_detail="]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[ajaxify*="&eid="] + a[href^="https://l.facebook.com/l.php?u="]
 newstalkflorida.com##a[alt="Ad"]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[aria-label="Advertiser link"]
@@ -64134,6 +64149,7 @@ newduba.cn###jq_youxi
 ||pdxdxl.xyz^
 ||liwed.xyz^
 ||dbxok6uo.icu^
+||nzrlx6wc.icu^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -85584,6 +85600,8 @@ _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
+/ls.php?t=
+/track.php?domain=
 /action-impressions/*
 /ajax/counter?ctr=
 /batch/1/OE/*
@@ -89360,6 +89378,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
 ||brothersbucket.com^
+||brotherslocket.com^
 ||bruisebaseball.com^
 ||bucketbean.com^
 ||buildingknife.com^
