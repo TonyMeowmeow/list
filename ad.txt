@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Vp0z+UAryk3L60gm1vC6fA
+! Checksum: wLwXXEaKi77LVP4KW7raJw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202311071415
-! Last Modified: 2023年11月07日 14:15
+! Version: 202311072023
+! Last Modified: 2023年11月07日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2666,6 +2666,8 @@ newduba.cn###jq_youxi
 ||znwzcmd.cn^
 ||2c0a5.xyz^
 ||azdiqsb.cn^
+||wyiegt.icu^
+||eyjvq.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -19459,6 +19461,7 @@ wnacg.com##script + div > a > img
 ||hdsrc-a.akamaihd.net^
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 eastday.com#@##leftShare
+123pan.com#@#.share-list
 189.cn#@##linkShare
 gfan.com,gfan.net.cn#@##shareBox
 189.cn,zdzdm.com#@##share_list
