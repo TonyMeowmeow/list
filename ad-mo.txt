@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yeWy4Xz2mfiAe9fjF15bVw
+! Checksum: 3aEfcyQqIK1Z2V/pEUmALw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202311110855
-! Last Modified: 2023年11月11日 08:55
+! Version: 202311111414
+! Last Modified: 2023年11月11日 14:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -58628,7 +58628,7 @@ investing.com###generalOverlay
 getvideobot.com###getvideobot_com_300x250_responsive
 getvideobot.com###getvideobot_com_980x250_billboard_responsive
 thingstodovalencia.com###getyourguide-widget
-dotesports.com###gg-masthead
+dotesports.com,progameguides.com###gg-masthead
 glowstery.com###ghostery-highlights
 freegames.org###gla
 wordcounter.net###glya
@@ -67453,6 +67453,11 @@ newduba.cn###jq_youxi
 ||hwvwxerw.xyz^
 ||mggzah.icu^
 ||vjzjpt.xyz^
+||ahpphkc.xyz^
+||jili9.io^
+||gscsahv011.com^
+||mvng.cn^
+||pzcogpj.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -76426,6 +76431,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zhenniu.vip###klp_hdp
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -84517,7 +84523,6 @@ fqsousou.com,kengso.com#@#.user-share
 .com/log/?
 .com/stats.aspx?
 .com/track?$~object
-.com/vtrack|
 .content_tracking.js
 .de/h.gif?
 .de/l.gif?
@@ -87254,6 +87259,7 @@ _webanalytics.
 _WebVitalsReporter_
 /ajax/bnzai?_
 /ajax/bz?_
+.com/vtrack
 /ls.php?t=
 /track.php?domain=
 /ContextLogResource/*
@@ -90941,6 +90947,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||awesomeattack.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
+||axiomaticanger.com^
 ||azuremystique.com^
 ||badgeboat.com^
 ||bagbeam.com^
@@ -91219,6 +91226,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||delegatediscussion.com^
 ||delicatecascade.com^
 ||delicateducks.com^
+||deliciousducks.com^
 ||delightfulhour.com^
 ||dependenttrip.com^
 ||desertedbreath.com^
@@ -91363,6 +91371,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||firstfrogs.com^
 ||firsttexture.com^
 ||flakyfeast.com^
+||flameuncle.com^
 ||flimsycircle.com^
 ||flimsythought.com^
 ||flockflame.com^
@@ -91722,6 +91731,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||panickypancake.com^
 ||panoramicbutter.com^
 ||paradoxfactor.com^
+||parallelbulb.com^
 ||parcelcreature.com^
 ||parchedangle.com^
 ||parchedsofa.com^
@@ -91887,6 +91897,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rhetoricalveil.com^
 ||rhymezebra.com^
 ||rhythmmoney.com^
+||rhythmrule.com^
 ||richreceipt.com^
 ||richstring.com^
 ||righteouscrayon.com^
