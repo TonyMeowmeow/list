@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XYIuV6iQBqMAS5h+N8kXQw
+! Checksum: bkeve7ejTCvEgnN38PTgpQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312111416
-! Last Modified: 2023年12月11日 14:16
+! Version: 202312112025
+! Last Modified: 2023年12月11日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1034,7 +1034,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /bottomad.
 /bottomads.
 /box_ad_
-/brainforce.cookies/jquery.ihavecookies.min.js
 /brightcovead.
 /bsa-plugin-pro-
 /bsa-pro-
@@ -63369,6 +63368,7 @@ youtube.com###contents.style-scope.ytd-search-pyv-renderer
 youtube.com###items > ytd-ad-slot-renderer
 youtube.com###main > #banner.ytd-merch-shelf-renderer
 youtube.com###masthead-ad > .ytd-rich-grid-renderer
+youtube.com###panels > [target-id="engagement-panel-ads"]
 youtube.com###related > div#player-ads
 youtube.com###scroll-container > #items.ytd-merch-shelf-renderer
 youtube.com##.ytp-chrome-top-buttons > .ytp-cards-teaser
