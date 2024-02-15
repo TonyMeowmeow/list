@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gwOW6sljXmrOraeVhI2dGQ
+! Checksum: XYi6Sdw8Atr7E4ZYxzAmFA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202402142022
-! Last Modified: 2024年02月14日 20:22
+! Version: 202402152021
+! Last Modified: 2024年02月15日 20:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1516,8 +1516,6 @@ truyensextv.org#$#abort-current-inline-script document.addEventListener popup
 ! *** abp-filters-hotfix:hotfix.txt ***
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
-! FD-4039
-@@||dzen.ru/partner2/mailru-morda|$xmlhttprequest,domain=mail.ru
 ! *** abp-filters-anti-cv:distribution/abp-filters-partners.txt ***
 ! Filters to be used by distribution partners
 ! #CV-782
