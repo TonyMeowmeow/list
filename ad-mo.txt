@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: f3gOvhY7mhDbszcFV/tI5Q
+! Checksum: EE+El0LYkOLD6gDJx61w4w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202402240852
-! Last Modified: 2024年02月24日 08:52
+! Version: 202402241414
+! Last Modified: 2024年02月24日 14:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59971,7 +59971,7 @@ browsershots.org#@#.advert_area
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
-||caffeine.tv/embed/
+||caffeine.tv/embed/$third-party
 ||campaigns.williamhill.com^
 ||capital.com/widgets/$third-party
 ||careerwebsite.com/distrib_pages/jobs.cfm?
@@ -63722,7 +63722,7 @@ techrepublic.com###leader-plus-top
 ugstandard.com###leader-wrap
 techgeek365.com###leader-wrapper
 wsvn.com###leader_1
-12tomatoes.com,allwomenstalk.com,datpiff.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,stuff.tv,thedrinknation.com,theserverside.com###leaderboard
+12tomatoes.com,allwomenstalk.com,datpiff.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,thedrinknation.com,theserverside.com###leaderboard
 open.spotify.com###leaderboard-ad-element
 vocm.com###leaderboard-area
 bbc.com###leaderboard-aside-content
@@ -65022,7 +65022,6 @@ autocar.co.uk##.block-autocar-ads-mpu1
 thescore1260.com##.block-content > a[href*="sweetdealscumulus.com"]
 indysmix.com,wzpl.com##.block-content > a[href^="https://sweetjack.com/local"]
 webbikeworld.com##.block-da
-stuff.tv##.block-hcm-external-blocks
 mondoweiss.net##.block-head-c
 newsweek.com##.block-ibtmedia-dfp
 endocrineweb.com,practicalpainmanagement.com##.block-oas
@@ -65142,8 +65141,10 @@ insurancejournal.com##.bzn
 coingraph.us##.c
 insidebitcoins.com##.c-FloatingPrompt
 globalnews.ca##.c-ad
+stuff.tv##.c-ad--leftpageskin
 stuff.tv##.c-ad--mpu-bottom
 stuff.tv##.c-ad--mpu-top
+stuff.tv##.c-ad--rightpageskin
 globalnews.ca##.c-adChoices
 zdnet.com##.c-adDisplay_container_incontent-all-top
 legit.ng,tuko.co.ke##.c-adv
@@ -65155,6 +65156,7 @@ newstalkzb.co.nz##.c-background
 elnacional.cat##.c-banner
 truck1.eu##.c-banners
 euronews.com##.c-card-sponsor
+stuff.tv##.c-freestar-video-ad__container
 thehustle.co##.c-layout--trends
 download.cnet.com##.c-pageFrontDoor_adWrapper
 download.cnet.com##.c-pageProductDetail-sidebarAd
@@ -67040,6 +67042,7 @@ newegg.com##.sponsored-brands
 cheknews.ca##.sponsored-by
 washingtontimes.com##.sponsored-heading
 breakingdefense.com##.sponsored-inline
+justwatch.com##.sponsored-recommendation
 crn.com##.sponsored-resources
 search.brave.com##.sponsored-unit_wrapper
 coingecko.com##.sponsored-v2
@@ -68247,6 +68250,7 @@ qwant.com##div[data-testid="homeTrendsContainer"] a[href^="https://api.qwant.com
 qwant.com##div[data-testid="pam.container"]
 qwant.com##div[data-testid="productAdsMicrosoft.container"]
 sitepoint.com##div[data-unit-code]
+weather.com##div[id*="Taboola-sidebar"]
 chrome-stats.com##div[id*="billboard_responsive"]
 thenewspaper.gr##div[id*="thene-"]
 diskingdom.com##div[id="diski-"]
@@ -72410,6 +72414,7 @@ newduba.cn###jq_youxi
 ##style + .need_grid_img
 ##style + .vdgdo
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
+##.TqAdShow
 ##td[id^="td_"] > a[href^="/htmm/"]
 ##vg-pause-d > .vg-v-p
 !----------------------------------Ads-Union----------------------------------!
@@ -72555,6 +72560,9 @@ newduba.cn###jq_youxi
 ||arqvm.cn^
 ||yddjmpjo.xyz^
 ||ktoioo.xyz^
+||srzpsbf.xyz^
+||pjzxdl.xyz^
+||sjaaquj.cn^
 ##[style*="sotv.me"]
 ##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
@@ -90811,6 +90819,7 @@ fqsousou.com,kengso.com#@#.user-share
 /ibeat.min.js
 /icf-analytics.js
 /id?d_visid_
+/if/services/tdg?hs=
 /IIQUniversalID.min.js
 /image.ng/*
 /iMAWebCookie.js
@@ -92401,6 +92410,7 @@ _WebVitalsReporter_
 .com/vtrack
 /ls.php?t=
 /track.php?domain=
+/track.php?toggle=
 /ContextLogResource/*
 /statslogresource/*
 /ajax/counter?ctr=
@@ -136134,6 +136144,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||sparkasse.de/frontend/setTrackingCookie.htm
 ||sportnews.bz/pcookie?
 ||spreewaldkarte.de/t.gif
 ||sqs.quoka.de^
