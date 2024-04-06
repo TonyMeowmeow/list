@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ii+DuSmPS2NfpZdpjWi7iA
+! Checksum: kTQLei/or4wIS5A0fTyAnQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202404060215
-! Last Modified: 2024年04月06日 02:15
+! Version: 202404060854
+! Last Modified: 2024年04月06日 08:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -481,8 +481,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad-scripts--
 /ad-scroll.js
 /ad-server.$~script
-/ad-sidebar-
-/ad-skin-
 /ad-third-party?
 /ad.cgi?
 /ad.css?
@@ -1005,7 +1003,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /css/adv.
 /curveball/ads/*
 /custom_ads.js
-/d3.php?x=
 /data-file_123.js
 /deliverad/fc.js
 /delivery.ads.
@@ -1393,10 +1390,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /promo/affiframe.
 /PromosAds/*
 /promotools.
-/propellerad.
-/propellerads.$domain=~propellerads.com
-/proto2ad.
-/provider_ads/*
 /proxyadcall?
 /pub/ad/*
 /pub/ads/*
@@ -1413,16 +1406,11 @@ pan.baidu.com##.upload-bar.global-clearfix
 /publicidade/*
 /publicidades/*
 /puff_ad?
-/punder-rotate.
 /punder.php
-/pup-a9-header-bidder/*
-/purch-ad-
-/push/p.js?u=$third-party
-/pushdownAd.
+/push/p.js?
 /pustrck.js
 /radioAdEmbed.
 /radioAdEmbedGPT.
-/rail_ad_
 /railad.
 /rcom-ads-
 /rcom-ads.
@@ -1433,14 +1421,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /rdrr/renderer.js
 /re-ads-
 /realmedia/ads/*
-/realmedia_mjx.
 /reclama/*
-/rect_ad.
-/rectangle_ad.
 /redirect/?spot_id=
 /redirect?tid=
-/redirect_awe.
-/refreshads-
 /reklam.$domain=~github.com|~reklam.com.tr
 /reklam/*$domain=~cloudflare.com|~github.com|~reklam.com.tr
 /reklama/*$domain=~github.com
@@ -1455,8 +1438,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /remove-ads.
 /remove_ads.
 /ren.gif?
-/report_ad.
-/report_ad_
+/report_ad.js
 /resources/ad.
 /resources/ads/*
 /resources/ads_
@@ -1467,18 +1449,17 @@ pan.baidu.com##.upload-bar.global-clearfix
 /right_ad_
 /right_ads.
 /rightad.
-/rightad/*
 /rightads.$domain=~rightads.co.uk
 /rotatingad.
-/rotationad.
 /s.ashx?btag
 /sbar.json?key=
 /sc-tagmanager/*
 /script/aclib.js
+/script/app_settings.js$third-party
 /script/java.php?$xmlhttprequest
+/script/naN.js
 /script/nwsu.js
 /script/wait.php?*=$xmlhttprequest
-/scriptFileV2.js
 /scripts/afc/*
 /scripts/chatur.js
 /sdk/push_web/?zid=
@@ -1497,16 +1478,12 @@ pan.baidu.com##.upload-bar.global-clearfix
 /show_ad?
 /showban.asp?
 /showbanner.js
-/side-ad-
-/side-ad.
 /side-ads-
 /side-ads/*
 /side_ads/*
 /sidead.
 /sidead1.
-/sidead2.
-/sidead3.
-/sideads.
+/sideads.js
 /sideads/*
 /sidebar-ad-
 /sidebar-ads/*
@@ -1588,6 +1565,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /targetingAd.js
 /targetpushad.js
 /theologicalpresentation.com/*
+/tmbi-a9-header-
 /tncms/ads/*
 /tnt.ads.
 /top-ad.
@@ -21889,6 +21867,7 @@ browsershots.org#@#.advert_area
 ||automatedtraffic.com^
 ||automateyourlist.com^
 ||automaticallyindecisionalarm.com^
+||automenunct.com^
 ||autoperplexturban.com^
 ||autopsycarrel.com^
 ||autopsyfowl.com^
@@ -23081,7 +23060,6 @@ browsershots.org#@#.advert_area
 ||bitemisuse.com^
 ||biteneverthelessnan.com^
 ||bitesized-commission.pro^
-||bits.avcdn.net^
 ||bitsspiral.com^
 ||bittenlacygreater.com^
 ||bitterborder.pro^
@@ -35181,6 +35159,7 @@ browsershots.org#@#.advert_area
 ||iseoiknnqckto.xyz^
 ||isftdmoj.com^
 ||isgost.com^
+||ishaweewouta.com^
 ||ishedtotigai.info^
 ||ishibeesoany.com^
 ||ishoapty.net^
@@ -36609,6 +36588,7 @@ browsershots.org#@#.advert_area
 ||kmyunderthf.info^
 ||knackseafood.com^
 ||knaplpdmbrbi.com^
+||knappedmurshid.com^
 ||knaveavo.guru^
 ||knawelgrx.com^
 ||kncecafvdeu.info^
@@ -37253,6 +37233,7 @@ browsershots.org#@#.advert_area
 ||lecythleche.website^
 ||ledaoutrush.com^
 ||ledgesprimely.com^
+||ledgingalcaid.com^
 ||ledhatbet.com^
 ||ledrapti.net^
 ||ledslevier.com^
@@ -37814,6 +37795,7 @@ browsershots.org#@#.advert_area
 ||logicdate.com^
 ||logicdripping.com^
 ||logicorganized.com^
+||logicschort.com^
 ||loglabitrufly.top^
 ||loglaupt.com^
 ||logsgroupknew.com^
@@ -43039,6 +43021,7 @@ browsershots.org#@#.advert_area
 ||pesterunusual.com^
 ||pestilenttidefilth.org^
 ||petalycnida.com^
+||petasmaeryops.com^
 ||petasmaupbore.website^
 ||petasusawber.com^
 ||petchesa.net^
@@ -43657,6 +43640,7 @@ browsershots.org#@#.advert_area
 ||pohsoneche.info^
 ||poi3d.space^
 ||poignantsensitivenessforming.com^
+||poilloiter.top^
 ||poinct.com^
 ||poined.com^
 ||pointed-deal.pro^
@@ -55745,7 +55729,6 @@ browsershots.org#@#.advert_area
 ||bhlom.com^$document
 ||bincatracs.com^$document
 ||binomtrcks.site^$document
-||bits.avcdn.net^$document
 ||blehcourt.com^$document
 ||brenn-wck.com^$document
 ||bunth.net^$document
@@ -57256,6 +57239,7 @@ browsershots.org#@#.advert_area
 ||css-load.com^$document,popup
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^$document,popup
 ||f97ae142.online^$document,popup
+||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^$document,popup
 ||html-load.cc^$document,popup
 ||html-load.com^$document,popup
 ||ad.lgappstv.com^
@@ -59330,6 +59314,7 @@ browsershots.org#@#.advert_area
 ||locooler-ageneral.com^$popup
 ||lody24.com^$popup
 ||logicdate.com^$popup
+||logicschort.com^$popup
 ||loodauni.com^$popup
 ||looew.club^$popup
 ||lookandfind.me^$popup
@@ -59983,6 +59968,7 @@ browsershots.org#@#.advert_area
 ||pnperf.com^$popup
 ||pocofh.com^$popup
 ||podefr.net^$popup
+||poilloiter.top^$popup
 ||pointclicktrack.com^$popup
 ||pointlimitedzen.online^$popup
 ||pointroll.com^$popup
@@ -62468,6 +62454,7 @@ browsershots.org#@#.advert_area
 ||privatejetfinder.com/skins/partners/$third-party
 ||promos.fling.com^
 ||promote.pair.com/88x31.pl
+||proto2ad.durasite.net^
 ||proxysolutions.net/affiliates/
 ||pubfeed.linkby.com^
 ||public.porn.fr^$third-party
@@ -64144,6 +64131,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||ebayrtm.com/rtm?RtmCmd*&enc=
 ||ebayrtm.com/rtm?RtmIt
 ||ebaystatic.com^*/ScandalJS-
+||eccie.net/provider_ads/
 ||ed2k.2x4u.de/mfc/
 ||edge.ads.twitch.tv^
 ||eentent.streampiay.me^
@@ -64445,6 +64433,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sciencefocus.com/pricecomparison/$subdocument
 ||scoot.co.uk/delivery.php
 ||scrolller.com/scrolller/affiliates/
+||search.brave.com/api/ads/
 ||search.brave.com/serp/v1/static/serp-js/paid/
 ||search.brave.com/serp/v1/static/serp-js/shopping/
 ||searchenginereports.net/theAdGMC/$image
@@ -67529,6 +67518,7 @@ strategie-bourse.com##.cadre_encadre_pub
 cafonline.com##.caf-o-sponsors-nav
 clutchpoints.com##.cafemedia-clutchpoints-header
 challonge.com##.cake-unit
+calculat.io##.calc67-container
 skylinewebcams.com##.cam-vert
 thedalesreport.com##.cap-container
 dllme.com##.captchabox > div
@@ -68121,7 +68111,6 @@ distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.gwofgg
 thetimes.co.uk##.gyLkkj
 worldpopulationreview.com##.h-64
 tvcancelrenew.com##.h-72
-emojipedia.org##.h-\[112px\]
 posemaniacs.com##.h-\[250px\]
 emojipedia.org##.h-\[282px\]
 businessinsider.in##.h-\[300px\]
@@ -75358,6 +75347,11 @@ newduba.cn###jq_youxi
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
+||q02orc.cn^
+||enalzlw.top^
+||nuhgpx.xyz^
+||ojvpigx.xyz^
+||utkauo.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
