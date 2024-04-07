@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +X44RjKOjQI34m9aZBk/9w
+! Checksum: kMvr8jx7Zva4dQyFikR+kQ
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202404070214
-! Last Modified: 2024年04月07日 02:14
+! Version: 202404070901
+! Last Modified: 2024年04月07日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2875,6 +2875,13 @@ newduba.cn###jq_youxi
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
+||gfylyw.xyz^
+||bdjfea.cn^
+||wnalzle.top^
+||vejhln.xyz^
+||obgekjz.icu^
+||atzhcjv.xyz^
+||m6j37.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
@@ -11624,9 +11631,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
+||setn.com/js/idleAD.
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+gotrip.hk,nmplus.hk,weekendhk.com##.ai_widget
 szxx.com.cn###A1
 szxx.com.cn###A2
 yahoo.com###ACT_crazy
