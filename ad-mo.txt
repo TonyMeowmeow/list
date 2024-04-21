@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tFx6x85KFJqThpswprxgug
+! Checksum: P2IAVVf5vXPSBANkd88UoA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202404210901
-! Last Modified: 2024年04月21日 09:01
+! Version: 202404211416
+! Last Modified: 2024年04月21日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -63785,6 +63785,7 @@ browsershots.org#@#.advert_area
 ||public.porn.fr^$third-party
 ||publish0x.com^$image,script,third-party
 ||purevpn.com/affiliates/
+||pushtoast-a.akamaihd.net^
 ||qsearch-a.akamaihd.net^
 ||racebets.com/media.php?
 ||random-affiliate.atimaze.com^
@@ -68086,6 +68087,7 @@ dictionary.com##.TeixwVbjB8cchva8bDlg
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
 topgear.com##.TopContainer-sc-cy9ye3-1
+ndtv.com##.TpGnAd_ad-wr
 dappradar.com##.Tracker__StyledSmartLink-sc-u8v3nu-0
 poebuilds.net##.W_tBwY
 britannicaenglish.com##.WordFromSponsor_content_enToar
@@ -68226,6 +68228,7 @@ usnews.com##.ad-spacer__AdSpacer-sc-nwg9sv-0
 techinformed.com##.ad-text-styles
 companiesmarketcap.com##.ad-tr
 forbes.com##.ad-unit
+ndtvprofit.com##.ad-with-placeholder-m__place-holder-wrapper__--JIw
 bqprime.com##.ad-with-placeholder-m__place-holder-wrapper__1_rkH
 trueachievements.com##.ad-wrap
 crn.com,smithsonianmag.com,tasty.co##.ad-wrapper
@@ -69176,7 +69179,7 @@ coingape.com##.desktopds
 flashscore.co.za,flashscore.com,livescore.in,soccer24.com##.detailLeaderboard
 floridapolitics.com##.dfad
 coingape.com##.dfd
-gadgetsnow.com,jezebel.com,nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
+gadgetsnow.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
 gazette.com,thehindu.com##.dfp-ad
 investing.com##.dfp-native
 investing.com##.dfpVideo
@@ -69653,7 +69656,11 @@ adweek.com##.htl-ad-wrapper
 barstoolsports.com##.htl-ad__container
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
+splinter.com##.htlad-above_logo
+splinter.com##.htlad-bottom_rectangle
 themessenger.com##.htlad-leaderboard_top
+splinter.com##.htlad-middle_rectangle
+splinter.com##.htlad-top_rectangle
 wtop.com##.hubb-at-rad-header
 huddle.today##.huddle-big-box-placement
 techspree.net##.hustle-popup
@@ -70236,6 +70243,7 @@ businesstoday.in##.outer-add-section
 salon.com##.outer_ad_container
 aminoapps.com##.overflow-scroll-sidebar > div
 shtfplan.com##.overlay-container
+sports.ndtv.com##.overlay__side-nav
 operawire.com##.ow-archive-ad
 golfweather.com##.ox300x250
 afkgaming.com##.ozw5N
