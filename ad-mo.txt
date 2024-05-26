@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: klaZX//KBGcAmW+wOqHMag
+! Checksum: RllWLG39d2EbLi9Iij2kPw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202405260215
-! Last Modified: 2024年05月26日 02:15
+! Version: 202405260904
+! Last Modified: 2024年05月26日 09:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -9593,6 +9593,7 @@ _800x80_
 ##.ads300-250
 ##.ads300250
 ##.ads300_250
+##.ads300_600-widget
 ##.ads300box
 ##.ads300x600
 ##.ads336_280
@@ -12159,6 +12160,12 @@ _800x80_
 ##.dynamicad2
 ##.e-ad
 ##.e-advertise
+##.e3lan
+##.e3lan-top
+##.e3lan-widget-content
+##.e3lan300-100
+##.e3lan300-250
+##.e3lan300_250-widget
 ##.eaa-ad
 ##.eads
 ##.easy-ads
@@ -16059,10 +16066,6 @@ _800x80_
 ##div[id^="ad_position_"]
 ##div[id^="adngin-"]
 ##div[id^="adrotate_widgets-"]
-##div[id^="ads250_250-widget-"]
-##div[id^="ads300_100-widget-"]
-##div[id^="ads300_250-widget-"]
-##div[id^="ads300_600-widget-"]
 ##div[id^="adspot-"]
 ##div[id^="advads_ad_"]
 ##div[id^="crt-"][style]
@@ -76108,6 +76111,11 @@ newduba.cn###jq_youxi
 ||ksylied.top^
 ||cai75tp.com^
 ||enviousinevitable.com^
+||jxwqu.cn^
+||uqydcs.xyz^
+||zltndp.xyz^
+||ibaglhc.icu^
+||ssylieb.top^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
