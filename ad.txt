@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: X5izTXgMLBUNFJeZppM8Qg
+! Checksum: rFZZqm8imaHZUEbn6jiA7g
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202407302027
-! Last Modified: 2024年07月30日 20:27
+! Version: 202407310218
+! Last Modified: 2024年07月31日 02:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -567,6 +567,7 @@ douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 douyu.com,huya.com##a[href^="https://g.wan."]
 huya.com##a[href^="https://wan."]
 huya.com###hy-ad,#hy-ab,#huya-ab
+www.huya.com##.huya-ab
 www.huya.com##.sidebar-banner, a.J_g_resource
 www.huya.com###public-screen-ab
 ||business.msstatic.com/advertiser/$image
