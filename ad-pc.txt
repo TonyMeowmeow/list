@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WUU7difJD2yzFRoowF6MPQ
+! Checksum: jnz8vKAPdh76I6jEHCxX3g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202409012026
-! Last Modified: 2024年09月01日 20:26
+! Version: 202409020218
+! Last Modified: 2024年09月02日 02:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18567,6 +18567,7 @@ browsershots.org#@#.advert_area
 ||agriculturaltacticautobiography.com^
 ||agriculturealso.com^
 ||agriculturepenthouse.com^
+||agtongagla.com^
 ||agtwvigehvl.com^
 ||agujvjrpnins.com^
 ||agukalty.net^
@@ -20145,6 +20146,7 @@ browsershots.org#@#.advert_area
 ||awmserve.com^
 ||awnexus.com^
 ||awningstoffees.top^
+||awnwhocamewi.info^
 ||awokeconscious.com^
 ||awoudsoo.xyz^
 ||awpcrpu.com^
@@ -20240,6 +20242,7 @@ browsershots.org#@#.advert_area
 ||azoaltou.com^
 ||azoogleads.com^
 ||azorbe.com^
+||azossaudu.com^
 ||azotvby.com^
 ||azpresearch.club^
 ||azqhjzbuusjn.com^
@@ -24683,6 +24686,7 @@ browsershots.org#@#.advert_area
 ||debeftib.com^
 ||debism.com^
 ||debitslopenoncommittal.com^
+||deboisedivel.com^
 ||debrisstern.com^
 ||debsis.com^
 ||debtminusmaternal.com^
@@ -27521,6 +27525,7 @@ browsershots.org#@#.advert_area
 ||falcatayamalka.com^
 ||falkag.net^
 ||falkwo.com^
+||fallenleadingthug.com^
 ||fallhadintense.com^
 ||fallingseveral.com^
 ||fallinsolence.com^
@@ -28665,6 +28670,7 @@ browsershots.org#@#.advert_area
 ||fsseeewzz.lol^
 ||fsseeewzz.quest^
 ||fstsrv1.com^
+||fstsrv13.com^
 ||fstsrv2.com^
 ||fstsrv3.com^
 ||fstsrv4.com^
@@ -33047,6 +33053,7 @@ browsershots.org#@#.advert_area
 ||jovialwoman.com^
 ||jowlishdiviner.com^
 ||jowvwrmccakiy.com^
+||jowyylrzbamz.top^
 ||joxaviri.com^
 ||joycreatorheader.com^
 ||joydirtinessremark.com^
@@ -33389,6 +33396,7 @@ browsershots.org#@#.advert_area
 ||kaushooptawo.net^
 ||kauvoaph.xyz^
 ||kauzishy.com^
+||kavaamply.shop^
 ||kavanga.ru^
 ||kaxjtkvgo.com^
 ||kaxnoyxs.com^
@@ -35363,6 +35371,7 @@ browsershots.org#@#.advert_area
 ||manconsider.com^
 ||mandantnutter.top^
 ||mandatorycaptaincountless.com^
+||mandatorypainter.com^
 ||mandrintamoyo.top^
 ||manduzo.xyz^
 ||manentsysh.info^
@@ -36121,6 +36130,7 @@ browsershots.org#@#.advert_area
 ||mlqyyucumcoxum.com^
 ||mlrfltuc.com^
 ||mlrrvusoiebaox.com^
+||mlstatmaehnvtgu.com^
 ||mlsys.xyz^
 ||mluemlmxn.com^
 ||mluptwapaj.com^
@@ -36534,6 +36544,7 @@ browsershots.org#@#.advert_area
 ||ms3t.club^
 ||msads.net^
 ||msdiouc.com^
+||msehm.com^
 ||msensuedcounteract.com^
 ||msgose.com^
 ||mshago.com^
@@ -36661,6 +36672,7 @@ browsershots.org#@#.advert_area
 ||muzoohat.net^
 ||muzzlematrix.com^
 ||muzzlepairhysteria.com^
+||mvblxbuxe.com^
 ||mvcqerddcnyfx.com^
 ||mvcwfqntrnatng.com^
 ||mvgxadljnwyf.com^
@@ -37729,6 +37741,7 @@ browsershots.org#@#.advert_area
 ||numbertrck.com^
 ||numbninth.com^
 ||numbswing.pro^
+||numbtoday.com^
 ||numeralembody.com^
 ||numeralstoast.com^
 ||nunciosmegasse.website^
@@ -41148,6 +41161,7 @@ browsershots.org#@#.advert_area
 ||psithich.com^
 ||psixoahi.xyz^
 ||psma02.com^
+||psoacickoots.net^
 ||psoackaw.net^
 ||psoaftob.xyz^
 ||psoageph.com^
@@ -44026,6 +44040,7 @@ browsershots.org#@#.advert_area
 ||sdhfbvd.com^
 ||sdhiltewasvery.info^
 ||sdhltncfqbu.com^
+||sdiatesupervis.com^
 ||sdjqhxmg.com^
 ||sdkfjxjertertry.com^
 ||sdkl.info^
@@ -44994,6 +45009,7 @@ browsershots.org#@#.advert_area
 ||smittenkick.top^
 ||smjulynews.com^
 ||smkezc.com^
+||smktxbdnldbv.com^
 ||smlypotr.net^
 ||smnkaoqyys.com^
 ||smnwwohzccfwcu.com^
@@ -45065,6 +45081,7 @@ browsershots.org#@#.advert_area
 ||snortedgradually.com^
 ||snortedhearth.com^
 ||snoutcaffeinecrowded.com^
+||snoutcapacity.com^
 ||snoutinsolence.com^
 ||snowdayonline.xyz^
 ||snowmanpenetrateditto.com^
@@ -45422,6 +45439,7 @@ browsershots.org#@#.advert_area
 ||splief.com^
 ||splintmuses.com^
 ||splittingpick.com^
+||splungedhobie.click^
 ||spnut.com^
 ||spo-play.live^
 ||spoiledpresence.com^
@@ -45998,6 +46016,7 @@ browsershots.org#@#.advert_area
 ||stunning-lift.com^
 ||stunninglover.com^
 ||stunningruin.com^
+||stunoolri.net^
 ||stunsbarbola.website^
 ||stunthedge.com^
 ||stupendousconcept.pro^
@@ -51282,6 +51301,7 @@ browsershots.org#@#.advert_area
 ||xxgqsbfwbmtqa.com^
 ||xxjcedclosxcaox.com^
 ||xxltr.com^
+||xxmzhthuzvimf.com^
 ||xxodleylnfhyi.com^
 ||xxofygygumf.com^
 ||xxopairckrdhcx.com^
@@ -51918,6 +51938,7 @@ browsershots.org#@#.advert_area
 ||zigukaiss.com^
 ||zigzaggodmotheragain.com^
 ||zigzagrowy.com^
+||zigzt.com^
 ||zihafmktyn.com^
 ||zihditozlogf.com^
 ||zihogchfaan.com^
@@ -52044,6 +52065,7 @@ browsershots.org#@#.advert_area
 ||zpdnisvzedgbw.com^
 ||zpgetworker11.com^
 ||zphgadwnjro.com^
+||zplfwuca.com^
 ||zpreland.com^
 ||zprelandappslab.com^
 ||zprelanding.com^
@@ -54934,6 +54956,7 @@ browsershots.org#@#.advert_area
 ||awesome-blocker.com^$popup
 ||awptjmp.com^$popup
 ||awsclic.com^$popup
+||azossaudu.com^$popup
 ||azqq.online^$popup
 ||b0oie4xjeb4ite.com^$popup
 ||b225.org^$popup
@@ -55016,6 +55039,7 @@ browsershots.org#@#.advert_area
 ||betoga.com^$popup
 ||betotodilea.com^$popup
 ||betshucklean.com^$popup
+||bettentacruela.com^$popup
 ||betteradsystem.com^$popup
 ||betterdomino.com^$popup
 ||bettraff.com^$popup
@@ -55195,6 +55219,7 @@ browsershots.org#@#.advert_area
 ||checkcdn.net^$popup
 ||checkluvesite.site^$popup
 ||cheerfullybakery.com^$popup
+||cherrytv.media^$popup
 ||chetchoa.com^$popup
 ||chicks4date.com^$popup
 ||chiglees.com^$popup
@@ -57657,6 +57682,7 @@ browsershots.org#@#.advert_area
 ||sperans-beactor.com^$popup
 ||spicygirlshere.life^$popup
 ||spklmis.com^$popup
+||splungedhobie.click^$popup
 ||spo-play.live^$popup
 ||spongemilitarydesigner.com^$popup
 ||sport-play.live^$popup
@@ -73260,6 +73286,7 @@ newduba.cn###jq_youxi
 ||gesfdashb5.fun^
 ||bewrutv.top^
 ||gcvgedashb3.fun^
+||jy01.shop^
 ||wxsicu.xyz^
 ||gedashb112.fun^
 ||htxwzp.xyz^
