@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cu6FHnHs60gDNtM0INc/0Q
+! Checksum: UXl25fX6j759veaCVNnf5A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202411250918
-! Last Modified: 2024年11月25日 09:18
+! Version: 202411251424
+! Last Modified: 2024年11月25日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -11674,6 +11674,7 @@ _800x80_
 ##.embeddedAd
 ##.embeddedAds
 ##.embedded_ad_wrapper
+##.empire-prefill-container-injected
 ##.empire-unit-prefill-container
 ##.empty-ad
 ##.endAHolder
@@ -60793,6 +60794,7 @@ multimovies.bond##[href="https://telegram.me/multilootdeals"]
 complaintsingapore.com##[href="https://thechillipadi.com/"]
 photorumors.com##[href="https://topazlabs.com/ref/70/"]
 bleepingcomputer.com##[href="https://try.flare.io/bleeping-computer/"]
+uncrate.com##[href="https://un.cr/advertise"]
 walletinvestor.com##[href="https://walletinvestor.com/u/gnrATE"]
 duplichecker.com##[href="https://www.duplichecker.com/gcl"]
 wikifeet.com##[href="https://www.feetfix.com"]
@@ -62089,6 +62091,7 @@ hiphopdx.com##.video-player
 bolavip.com##.video-player-placeholder
 benzinga.com##.video-player-wrapper
 thepinknews.com##.video-player__container
+tasty.co##.video-wrap
 dpreview.com##.videoWrapper
 consequence.net##.video_container
 comicbook.com##.wp-block-savage-platform-primis-video
@@ -66118,6 +66121,8 @@ newduba.cn###jq_youxi
 ||uldaens.com^
 ||qidzwhfp.icu^
 ||aizhantj.com^
+||g41i.icu^
+||tweizai.top^
 ||lipheak.com^
 ||xcwdcynb.icu^
 ||wweizae.top^
