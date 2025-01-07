@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9hkWx3oZ+3aceJYxR/WrpA
+! Checksum: QlhRN2XspxKrdJJ79DdmJg
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202501070221
-! Last Modified: 2025年01月07日 02:21
+! Version: 202501072031
+! Last Modified: 2025年01月07日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1845,7 +1845,7 @@ truyen35.shop#$#abort-current-inline-script jQuery click_ads
 www.toptruyen28.net#$#abort-current-inline-script Promise instance
 animehay.name#$#abort-current-inline-script document.addEventListener window.open
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
-vailonxx.co,www.phimchaua.com,phimlongtieng.net#$#abort-current-inline-script jQuery window.open
+vailonxx.co,www.phimchaua.net,phimlongtieng.net#$#abort-current-inline-script jQuery window.open
 tctruyen.cc,abtruyenmoi.com#$#abort-current-inline-script $ popup
 truyenqqti.com,viet69.cat#$#abort-current-inline-script Promise break;case
 holyfilm.org#$#abort-current-inline-script window.addEventListener window.open
